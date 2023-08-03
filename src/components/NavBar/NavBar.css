@@ -1,0 +1,19 @@
+.nav-container {
+    align-items: center;
+    margin-top: 4vh;
+}
+
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	height: 18vh;
+	background-color: #adb5bd;
+}
+
+.navbar-logo{
+	justify-self: start;
+	margin-left: 20px;
+	color: #fff;
+	margin-top: 4vh;
+	cursor: pointer;
+}
